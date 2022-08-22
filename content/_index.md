@@ -1,7 +1,9 @@
-# State
-## Precinct
+# Wyoming, Sheridan County
+## Precinct: 02-02
 - News
     - Citizenry
-        - Groups
+        - Groups - subsets of current precinct
     - Political Parties 
-        -  Groups
+        -  Democrats
+        -  Republicans
+        -  Unaffiliated
